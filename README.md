@@ -1,19 +1,12 @@
 # 🤖 Ariyan Bot
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Nayan Bot;Multi+Device+Whatsapp+Bot;Coded+By+Ariyan" alt="Typing SVG" />
-  </a> 
-</div> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=NAYAN%20WHATSAPP%20BOT&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<div align="center"> 
-  <a href="https://youtu.be/maayqyNRVoU?si=V0o0wDq81uYf2KAk"> 
-    <img src="https://i.postimg.cc/nc9T0Mv8/LOGO-4-6-DECBCA.png" alt="Ariyan Bot" height="300"> 
-  </a> 
-</div>
-<br>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{ARIYAN-WHATSAPP-BOT}/count.svg" alt="Ariyan :: Visitor's Count" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=welcome+To+ARIYAN-WHATSAPP-BOT;" />
+</p>
 
 
 ---
@@ -25,10 +18,10 @@
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+Click the button below to fork the Nayan WhatsApp Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/MOHAMMAD-NAYAN/NAYAN-WHATSAPP-BOT/fork">
+  <a href="https://github.com/MOHAMMAD-NAYAN-07/NAYAN-WHATSAPP-BOT/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -51,6 +44,9 @@ For further customization and setup guidance, click the button below:
   </a>
   <a href="https://lunes.host/">
     <img src="https://img.shields.io/badge/Deploy on Lunes Host-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  </a>
+  <a href="https://katabump.com/">
+    <img src="https://img.shields.io/badge/Deploy on KataBump-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
 </div>
 
@@ -117,3 +113,54 @@ prefix: 'both' (prefix nonprefix both work)
     ```bash
     node index.js
     ```
+    
+### Start the Pair Code Generator Server
+
+## visit:
+
+```
+https://nayan-whatsapp-bot-paircode.onrender.com
+```
+
+> The server provides **Pair Code** and **QR Code** login options.
+
+---
+
+### Generate Pair Code
+
+1. Open your browser and visit:
+
+```
+https://nayan-whatsapp-bot-paircode.onrender.com
+```
+
+2. Ensure **Pair Code** mode is selected (toggle at top).
+
+3. Enter your WhatsApp number with country code, e.g.:
+
+```text
+88016152*****
+```
+
+4. Click **Generate Pair Code**.
+
+5. Copy the pair code safely.  
+⚠️ Do **not share this code** with anyone.
+
+---
+
+## 5️⃣ Save `creds.json`
+
+After pairing, the server will generate a `creds.json` file.
+
+1. Download `creds.json`.
+
+2. Place it in the **session folder** of your bot:
+
+```
+NAYAN-WHATSAPP-BOT/session/creds.json
+```
+
+> ⚠️ This file contains your WhatsApp credentials. Keep it safe!
+
+---
