@@ -1,0 +1,47 @@
+{
+  "name": "NAYAN-WHATSAPP-BOT",
+  "version": "1.1.5",
+  "description": "WhatsApp Bot Created by Mohammad Nayan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot",
+    "whatsapp-multi-device",
+    "whatsapp-bot-md",
+    "whatsapp-bot-multi-device",
+    "best-whatsapp-bot",
+    "whatsappbots",
+    "nayanbot",
+    "nayan-bot",
+    "nayan-bot-github",
+    "nayan-bot-md",
+    "nayanbot-whatsapp-bot",
+    "github-whatsapp-bot"
+  ],
+  "author": "Mohammad Nayan",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.21",
+    "axios": "^1.11.0",
+    "chalk": "^5.6.0",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.1",
+    "fluent-ffmpeg": "^2.1.3",
+    "gtts": "^0.2.1",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.6.0",
+    "nayan-api-servers": "^2.4.8",
+    "nayan-media-downloaders": "^0.1.6",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "pino": "^9.7.0",
+    "request": "^2.88.2",
+    "youtube-search-api": "^2.0.1"
+  }
+}
