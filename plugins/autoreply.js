@@ -1,7 +1,7 @@
 module.exports = {     
   config: {       
-    name: 'autoreply',       
-    aliases: ['ar'],       
+    name: 'autoreply1',       
+    aliases: ['arp'],       
     permission: 0,       
     prefix: 'both',       
     description: 'Automatically replies to specific messages from users.',       
