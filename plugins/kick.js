@@ -7,7 +7,7 @@ module.exports = {
     permission: 3,
     prefix: true,
     categorie: 'Moderation',
-    credit: 'Developed by Mohammad Nayan | Modified by EMon-BHai',
+    credit: 'Developed by Mohammad Nayan | Modified by Ariyan-BHai',
     description: 'Kicks a user from the group.',
     usages: [
       `${global.config.PREFIX}kick @username - Mention করে ইউজার রিমুভ করুন।`,
