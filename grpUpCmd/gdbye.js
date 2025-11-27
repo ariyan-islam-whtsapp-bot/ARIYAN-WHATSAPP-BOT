@@ -53,7 +53,7 @@ module.exports = {
 
 ${randomGoodbye()}
 
-— ☕ *EMon-BHai (Bot Admin)*`,
+— ☕ *Ariyan-BHai (Bot Admin)*`,
         mentions: [member]
       });
     }
