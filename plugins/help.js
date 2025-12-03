@@ -66,8 +66,8 @@ module.exports = {
     // ───── MAIN HELP MENU ─────
     let responseText = `
 ╭─❖  𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗠𝗘𝗡𝗨  ❖─╮
-│ 💎 𝘽𝙤𝙩: ${global.config.botName || "Srabon System"}
-│ 👑 Owner: ${global.config.botOwner || "Srabon-BHai"}
+│ 💎 𝘽𝙤𝙩: ${global.config.botName || "Ariyan System"}
+│ 👑 Owner: ${global.config.botOwner || "Ariyan-BHai"}
 │ ⚙️ Prefix: ${global.config.PREFIX}
 │──────────────────────`;
 
@@ -81,7 +81,7 @@ module.exports = {
 
     responseText += `
 ╰──────────────────────╯
-✨ Power SRABON-BHAI`;
+✨ Power ARIYAN-BHAI`;
 
     try {
       const response = await axios.get(global.config.helpPic, { responseType: 'stream' });
