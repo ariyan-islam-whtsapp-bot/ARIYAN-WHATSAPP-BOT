@@ -77,7 +77,7 @@ module.exports = {
 
       await api.sendMessage(
             event.threadId,
-            { image: { url: "https://i.postimg.cc/1XSqpFYN/3293f67aa9851daab33f246ef7a3b848.jpg" }, caption: infoMessage || '' },
+            { image: { url: "https://i.postimg.cc/d3qVCSSw/20251204-091005.png" }, caption: infoMessage || '' },
             { quoted: event.message }
           );;
     } catch (error) {
